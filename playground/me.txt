@@ -1,1 +1,0 @@
-Name: Ritesh\nSkills: HTML, CSS, JS, Next.js\nEmail: test@gmail.com
